@@ -6,7 +6,7 @@
     const cfg = {
 
      
-        finalDate : 'November 28, 2022 10:00:00',
+        finalDate : 'December 02, 2022 10:00:00',
 
     };
 
